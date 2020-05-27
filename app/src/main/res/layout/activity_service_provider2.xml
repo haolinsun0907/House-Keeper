@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".serviceProvider.ServiceProvider">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/profile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Profile"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="address"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/phoneNumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="phone number"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/company"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="name of the company" />
+
+            <TextView
+                android:id="@+id/description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="general description" />
+
+            <TextView
+                android:id="@+id/licenced"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="licenced"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/serviceListText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Service List"
+            android:textSize="25sp" />
+
+        <ListView
+            android:id="@+id/serviceList"
+            android:layout_width="match_parent"
+            android:layout_height="495dp"
+            android:layout_weight="1">
+
+        </ListView>
+
+        <TextView
+            android:id="@+id/availabilityListText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Availability List"
+            android:textSize="25sp" />
+
+        <ListView
+            android:id="@+id/availabilityList"
+            android:layout_width="match_parent"
+            android:layout_height="477dp"
+            android:layout_weight="1">
+
+        </ListView>
+
+        <Button
+            android:id="@+id/continueBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="continueBtn"
+            android:text="continue" />
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".serviceProvider.Functions">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/completeProfile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="completeBtn"
+            android:text="compelete profile" />
+
+        <Button
+            android:id="@+id/addBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="addBtn"
+            android:text="add services" />
+
+        <Button
+            android:id="@+id/deleteBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="deleteBtn"
+            android:text="delete services" />
+
+        <Button
+            android:id="@+id/specifyBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="specifyBtn"
+            android:text="specify availability" />
+
+        <Button
+            android:id="@+id/modifyBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="modifyBtn"
+            android:text="modify avaibility" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
