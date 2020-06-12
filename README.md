@@ -4,7 +4,7 @@
 In this project, I developed an Android application on Android studio called “Housekeeper”. The purpose of this application is to apply C2C model to help individuals provide and book some house-keeping services. Just like Uber and Airbnb, people who have the capability to do the house-keeping services can post their provided services and their hourly rate on the app; people who are looking for house-keeping services can also contact the service providers for the services and rate their services. It is a totally free app for the training purposes and it means to provide people an easier way to manage their house work and provide some jobs.
 
 ## UML Class Diagram:
-![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/UML.png)
+<div align="center">![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/UML.png)</div>
 
 ## Brief functionalities introduction:
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/1.jpg)  
@@ -27,26 +27,26 @@ If continue, the user will see five different function as above.<br>
 If the user chooses to complete the profile, the above page will show up.<br> 
 
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/8.jpg)
-Now, the user can either add a new service to the service list, remove a service or edit a service. 
+Now, the user can either add a new service to the service list, remove a service or edit a service.<br> 
 
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/9.jpg)
-When click “ADD A NEW SERVICE”, this page shows up, and user can either choose and existing service in the list or create his/her own service. 
+When click “ADD A NEW SERVICE”, this page shows up, and user can either choose and existing service in the list or create his/her own service.<br>
 
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/10.jpg)
-When click “CREATE YOUR OWN SERVICE”, the user can define the name and the hourly rate of the service.
+When click “CREATE YOUR OWN SERVICE”, the user can define the name and the hourly rate of the service.<br> 
 
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/11.jpg)
-The service provider can also specify or modify the service availability regards to a specific service.
+The service provider can also specify or modify the service availability regards to a specific service.<br> 
 
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/12.jpg)
-If you are the home owner, you can search the service provider by specifying the time slot and give the rate of the services.
+If you are the home owner, you can search the service provider by specifying the time slot and give the rate of the services.<br> 
 
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/13.jpg)
-The search page looks like this.
+The search page looks like this.<br> 
 
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/14.jpg)
-You can check the service provider name and the information about the service. 
+You can check the service provider name and the information about the service.<br>
 
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/15.jpg)
-Finally, you can enter the rate for the service. 
+Finally, you can enter the rate for the service.<br>
 
