@@ -4,7 +4,7 @@
 In this project, I developed an Android application on Android studio called “Housekeeper”. The purpose of this application is to apply C2C model to help individuals provide and book some house-keeping services. Just like Uber and Airbnb, people who have the capability to do the house-keeping services can post their provided services and their hourly rate on the app; people who are looking for house-keeping services can also contact the service providers for the services and rate their services. It is a totally free app for the training purposes and it means to provide people an easier way to manage their house work and provide some jobs.
 
 ## UML Class Diagram:
-<div align="center">![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/UML.png)</div>
+ <div align="center">![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/UML.png)</div>
 
 ## Brief functionalities introduction:
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/1.jpg)  
