@@ -8,14 +8,14 @@ In this project, I developed an Android application on Android studio called “
 
 ## Brief functionalities introduction:
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/1.jpg)
-This is the first page you see when you open the app, you can create a new account and sign in if you already have an account. There is a default account names admin as the role of administrator, this account user can create new services to the service list. 
+This is the first page you see when you open the app, you can create a new account and sign in if you already have an account. There is a default account names admin as the role of administrator, this account user can create new services to the service list.  
 
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/2.jpg)
-When you click “CREATE A NEW ACCOUNT”, the button will guide you to the page below, in that page you can register your account as administrator, service provide or home owner. 
+When you click “CREATE A NEW ACCOUNT”, the button will guide you to the page below, in that page you can register your account as administrator, service provide or home owner.  
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/3.jpg)
 
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/4.jpg)
-After log in as the administrator, there is a welcome screen to show my name and role.
+After log in as the administrator, there is a welcome screen to show my name and role.  
 
 ![image](https://github.com/haolinsun0907/House-Keeper/blob/master/img/5.jpg)
 After create account and login, the profile page look like this. 
